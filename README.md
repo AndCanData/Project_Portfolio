@@ -1,4 +1,4 @@
-[Image]
+![Portfolio image](ThamesPulse.jpg)
 
 # My Project Portolio
 
