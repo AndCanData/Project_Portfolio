@@ -4,6 +4,15 @@
 
 Welcome to my dashboard! Here I have my data-related projects including real-world tasks that exhibit my data proficiencies.
 
+This includes: 
+
+A mix of hypothetical scenarios with realistic data.
+
+Real data to find insights for hypothetical tasks.
+
+And real data to assist in real-world work. 
+
+
 ## I am proficient in:
 Excel ✅
 Tableau ✅
@@ -13,7 +22,12 @@ MS Azure integration (at DP900 level) ✅
 
 # Project 1 - Excel - Gym Renewal Sample
 
-To practice data preparation pre-visualisation, I decided to download a dataset from the online database "Kaggle", sorting through data to provide valuable insights to a potential gym owner.
+To practice data preparation and visualisation, I decided to download a dataset from the online database "Kaggle", sorting through data to provide valuable insights to a potential gym owner. The goal was to analyse the retention of memberships in accordance with complaints, membership types, and more, and seeing if the data could point to further actions that would assist the business in sustainably increasing renewals.
+
+| Syntax | Description | Syntax | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| Header | ![Portfolio image2](Screenshot 2026-07-07 152644.png) | Title | Title |
+| Paragraph | Text | Title | Title |
 
 [Image]
 
