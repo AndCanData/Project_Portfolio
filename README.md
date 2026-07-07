@@ -26,7 +26,7 @@ To practice data preparation and visualisation, I decided to download a dataset 
 
 | Syntax | Description | Syntax | Description |
 | ----------- | ----------- | ----------- | ----------- |
-| Header | ![Portfolio image2](Screenshot 2026-07-07 152644.png) | Title | Title |
+| Header | Title | Title | Title |
 | Paragraph | Text | Title | Title |
 
 [Image]
