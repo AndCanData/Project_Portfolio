@@ -76,9 +76,9 @@ The quick brown fox jumped over the lazy dog
 
 # Project 8 - Power BI - Adventure Works Data
 
-The quick brown fox jumped over the lazy dog
+To develop competencies in commercial business intelligence, I built an interactive executive dashboard in Power BI modeled after a major outdoor retail enterprise. Using transactional data, I applied DAX queries to aggregate sale volumes and map fluctuating monthly profit margins across global regions. The project focused heavily on establishing clear data modeling practices, implementing time-series trend analysis, and structuring multi-layered visual hierarchies. The final interface delivers a high-level operational overview, allowing stakeholders to dynamically filter performance by fiscal year, country, and product category to isolate revenue drivers and margin risks.
 
-[Image]
+<img width="1361" height="763" alt="image" src="https://github.com/user-attachments/assets/25df006b-5332-43e6-b203-9abea862da95" />
 
 # Project 9 - SQL - Worldwide project 
 
