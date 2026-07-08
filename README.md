@@ -49,9 +49,11 @@ The quick brown fox jumped over the lazy dog
 
 [Image]
 
-# Project 4 - Tableau - Spotify engagement 
+# Project 4 - Tableau - Spotify Engagement 
 
-The quick brown fox jumped over the lazy dog
+For this exercise, I was tasked with using data sourced from Spotify to find trends in the popularity of the music played. To advance my advanced dashboard design and data storytelling capabilities, I utilized a comprehensive Spotify dataset to practice the principles of user-centric visual hierarchy. 
+
+The goal of this project was to take high-density, streaming data and structure it into an intuitive interface. This included cleaning the data and uniting duplicate data entries, visualising it into appropriate charts, and creating an interactive, user firefly dashboard. By applying custom color, dynamic sorting table calculations, and precise filtering, this dashboard demonstrates how to maintain visual clarity and scannability when presenting complex consumer behavior metrics.
 
 [Image]
 
