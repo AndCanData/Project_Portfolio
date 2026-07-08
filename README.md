@@ -2,16 +2,19 @@
 
 # My Project Portfolio
 
-Welcome to my dashboard! Here I have my data-related projects including real-world tasks that exhibit my data proficiencies.
+Welcome to my dashboard! With over 5 years of experience in data related fields (Data Analysis, Business Analysis, and OSINT), I have built a solid footing in the world of data science. As Technology evolves, so must our tools, and that is why I furthered my knowledge through self-study and Digital Skills bootcamps. 
 
-This includes: 
+Here on this page, I have attached only a handful of data-related projects in which I worked on, including real-world tasks that exhibit my data proficiencies. 
 
-A mix of hypothetical scenarios with realistic data.
+These projects consist of: 
 
-Real data to find insights for hypothetical tasks.
+- A mix of hypothetical scenarios with realistic data.
 
-And real data to assist in real-world work. 
+- Real data to find insights for hypothetical tasks.
 
+- And real data to assist in previous real-world work.
+
+My strong suit is analysing commercial entities through research and Business Analysis, but my interest in various fields has enabled me to gain exposure to a multitude of different tools and areas of data science.
 
 ## I am proficient in:
 Excel ✅
