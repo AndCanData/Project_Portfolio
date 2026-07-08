@@ -55,7 +55,9 @@ For this exercise, I was tasked with using data sourced from Spotify to find tre
 
 The goal of this project was to take high-density, streaming data and structure it into an intuitive interface. This included cleaning the data and uniting duplicate data entries, visualising it into appropriate charts, and creating an interactive, user firefly dashboard. By applying custom color, dynamic sorting table calculations, and precise filtering, this dashboard demonstrates how to maintain visual clarity and scannability when presenting complex consumer behavior metrics.
 
-[Image]
+<img width="1645" height="857" alt="image" src="https://github.com/user-attachments/assets/5f5a5042-a13c-48da-8116-c8d67f015273" />
+
+Find the Interactive Dashboard [here!](https://public.tableau.com/app/profile/andrea.canino/viz/SpotifyPopularityMetrics/Dashboard1?publish=yes)
 
 # Project 5 - Tableau - Worldwide project
 
