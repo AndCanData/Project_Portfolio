@@ -29,13 +29,8 @@ Find the original data set here: https://www.kaggle.com/datasets/vivovinco/gym-m
 
 To practice data preparation and visualisation, I decided to download a dataset from the online database "Kaggle", sorting through data to provide valuable insights to a potential gym owner. The goal was to analyse the retention of memberships in accordance with complaints, membership types, and class attendance, and seeing if the data could point to further actions that would assist the business in sustainably increasing renewals.
 
-| Image (click for higher resolution) | Process |
-| ----------- | ----------- |
-| <img width="1225" height="125" alt="image" src="https://github.com/user-attachments/assets/9016901b-b2eb-473f-95c0-e59d74d4510e" /> | I had to first clean up the data, which consisted of UNIQUE and CLEAN functions to ensure the data was as expected. Then I formatted the data into a table, hiding old columns and transhorming them into usable data. |
-| <img width="174" height="147" alt="image" src="https://github.com/user-attachments/assets/914fb775-6c03-44ba-929e-93b0b9828797" /> | The next step was to create a pivot table that contained the information necessary for my research. For example, creating a table for complaints allowed me to check the share of customers renewing after a total amount of complaints. I turned this into percentages to better understand the distribution. |
-| <img width="170" height="102" alt="image" src="https://github.com/user-attachments/assets/01be76fb-ee35-44f9-b7a7-53bdb11b531e" /> | After viewing that there seemed to be a correlation, I ran a Chi Squared Test to confirm correlation. After creating a table to show the mathematically expected distribution of renewals per complaints, I was able to run the CHITEST function to compare the real data and the expected values. With 5.76074E-43, or 0.00...(40 zeros)0576, as the alpha, it confirmed that there was in fact a correlation between the two data points |
+<img width="1225" height="274" alt="image" src="https://github.com/user-attachments/assets/1dedd4c0-5b06-4622-8ac2-b4de5b79bfdf" />
 
-After repeating for membership types and class attendance, I was able to generate insights into business changes that would assist the gym owner in improving retention.
 
 # Project 2 - Excel - Bike Sales
 
@@ -67,9 +62,11 @@ The quick brown fox jumped over the lazy dog
 
 # Project 6 - Tableau - Changes By Industry
 
-The quick brown fox jumped over the lazy dog
+To practice end-to-end data preparation, schema modeling, and geospatial visualization, I developed a dataset tracking UK industrial growth and contraction between 2011 and 2014. The technical pipeline required designing a schema to connect separate data tables, eliminating null values, and resolving data integrity anomalies such as diagnosing and correcting duplicate entity entries caused by hidden special characters. The final interactive Tableau map provides a macro view of aggregate job shifts across the United Kingdom, while featuring dynamic sector-specific toggles to let users drill down into targeted industry growth patterns.
 
-[Image]
+<img width="846" height="436" alt="image" src="https://github.com/user-attachments/assets/07270abc-211d-4f82-bc61-ea641bdc9daf" />
+
+Find the Interactive Dashboard [here!](https://public.tableau.com/app/profile/andrea.canino/viz/ChangesByIndustry/CityLocationMap?publish=yes)
 
 # Project 7 - Power BI - Financial Year Reporting
 
@@ -100,3 +97,12 @@ The quick brown fox jumped over the lazy dog
 | Header | Title |
 | Paragraph | Text |
 | Paragraph | Text |
+
+
+| Image (click for higher resolution) | Process |
+| ----------- | ----------- |
+| <img width="1225" height="125" alt="image" src="https://github.com/user-attachments/assets/9016901b-b2eb-473f-95c0-e59d74d4510e" /> | I had to first clean up the data, which consisted of UNIQUE and CLEAN functions to ensure the data was as expected. Then I formatted the data into a table, hiding old columns and transhorming them into usable data. |
+| <img width="174" height="147" alt="image" src="https://github.com/user-attachments/assets/914fb775-6c03-44ba-929e-93b0b9828797" /> | The next step was to create a pivot table that contained the information necessary for my research. For example, creating a table for complaints allowed me to check the share of customers renewing after a total amount of complaints. I turned this into percentages to better understand the distribution. |
+| <img width="170" height="102" alt="image" src="https://github.com/user-attachments/assets/01be76fb-ee35-44f9-b7a7-53bdb11b531e" /> | After viewing that there seemed to be a correlation, I ran a Chi Squared Test to confirm correlation. After creating a table to show the mathematically expected distribution of renewals per complaints, I was able to run the CHITEST function to compare the real data and the expected values. With 5.76074E-43, or 0.00...(40 zeros)0576, as the alpha, it confirmed that there was in fact a correlation between the two data points |
+
+After repeating for membership types and class attendance, I was able to generate insights into business changes that would assist the gym owner in improving retention.
